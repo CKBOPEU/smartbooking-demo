@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.data/
+.test-data/
+.env*
+!.env.example
+*.tsbuildinfo
+PROGRESS.md
+PLAN.md
